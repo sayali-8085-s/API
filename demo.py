@@ -1,6 +1,6 @@
 # import json
 # pdata ={'name':'say'}
-# jdata1 =json.dump(pdata)
+# jdata1 =json.dumps(pdata)
 # print(jdata1)
 # print(type(jdata1))
 
